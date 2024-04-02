@@ -1,1 +1,1 @@
-# this is database about ICC(International Cricket Council)
+# this is a database about ICC(International Cricket Council)
